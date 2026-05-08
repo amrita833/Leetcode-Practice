@@ -12,7 +12,5 @@ class Solution {
                 nums[end]=temp;
                 start++;
                 end--;            }
-        }
-
-        
     }
+}

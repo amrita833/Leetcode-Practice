@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amrita833/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0162-find-peak-element](https://github.com/amrita833/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/amrita833/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [1732-find-the-highest-altitude](https://github.com/amrita833/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amrita833/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amrita833/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/amrita833/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/amrita833/Leetcode-Practice/tree/master/2540-minimum-common-value) |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amrita833/Leetcode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/amrita833/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

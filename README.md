@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/amrita833/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amrita833/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/amrita833/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/amrita833/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2540-minimum-common-value](https://github.com/amrita833/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amrita833/Leetcode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/amrita833/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |

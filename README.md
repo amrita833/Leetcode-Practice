@@ -46,10 +46,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/amrita833/Leetcode-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amrita833/Leetcode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amrita833/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amrita833/Leetcode-Practice/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/amrita833/Leetcode-Practice/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->

@@ -8,9 +8,9 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-/*class Solution {
+class Solution {
     public ListNode deleteMiddle(ListNode head) {
-        if(head==null && head.next==null){
+        if(head==null || head.next==null){
             return null;
         }
         ListNode slow= head;
@@ -25,10 +25,10 @@
         return head;
         
     }
-}*/
+}
 
 
-class Solution {
+/*class Solution {
     public ListNode deleteMiddle(ListNode head) {
         // Edge case: single node or empty list
         if (head == null || head.next == null) {
@@ -49,4 +49,4 @@ class Solution {
         prev.next = slow.next;
         return head;
     }
-}
+}*/

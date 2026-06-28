@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/amrita833/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/amrita833/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [1732-find-the-highest-altitude](https://github.com/amrita833/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amrita833/Leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2540-minimum-common-value](https://github.com/amrita833/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -54,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amrita833/Leetcode-Practice/tree/master/0011-container-with-most-water) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amrita833/Leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/amrita833/Leetcode-Practice/tree/master/0024-swap-nodes-in-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amrita833/Leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->

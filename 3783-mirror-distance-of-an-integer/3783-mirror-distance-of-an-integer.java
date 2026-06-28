@@ -8,6 +8,6 @@ class Solution {
         n=n/10;
         }
 
-return Math.abs(original-rev);      
+return Math.abs(original-rev);
     }
 }

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amrita833/Leetcode-Practice/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amrita833/Leetcode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/amrita833/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/amrita833/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [1732-find-the-highest-altitude](https://github.com/amrita833/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amrita833/Leetcode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/amrita833/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [2540-minimum-common-value](https://github.com/amrita833/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 ## Prefix Sum

@@ -9,6 +9,8 @@
         list.add(nums2[i]);
     }
     list.sort(null);
-    for(int i=0;i<list.size();i++){
-        nums1[i]=list.get(i);
-    }}}
+   for(int i=0;i<list.size();i++){
+   nums1[i]=list.get(i);
+
+   }
+    }}

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amrita833/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0299-bulls-and-cows](https://github.com/amrita833/Leetcode-Practice/tree/master/0299-bulls-and-cows) |
 ## String Matching
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/amrita833/Leetcode-Practice/tree/master/0299-bulls-and-cows) |
 | [2540-minimum-common-value](https://github.com/amrita833/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amrita833/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/amrita833/Leetcode-Practice/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->

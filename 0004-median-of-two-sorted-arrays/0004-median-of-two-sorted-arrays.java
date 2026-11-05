@@ -15,5 +15,7 @@ class Solution {
         }
         else{
            return (list.get(n/2)+list.get(n/2-1))/2.0;}
+
+        
     }
 }

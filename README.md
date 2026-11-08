@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amrita833/Leetcode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/amrita833/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/amrita833/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0496-next-greater-element-i](https://github.com/amrita833/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [1732-find-the-highest-altitude](https://github.com/amrita833/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amrita833/Leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2540-minimum-common-value](https://github.com/amrita833/Leetcode-Practice/tree/master/2540-minimum-common-value) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/amrita833/Leetcode-Practice/tree/master/0299-bulls-and-cows) |
+| [0496-next-greater-element-i](https://github.com/amrita833/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [2540-minimum-common-value](https://github.com/amrita833/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
@@ -100,8 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amrita833/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/amrita833/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 ## Counting
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/amrita833/Leetcode-Practice/tree/master/0299-bulls-and-cows) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/amrita833/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

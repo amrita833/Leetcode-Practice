@@ -20,5 +20,5 @@ class Solution {
         result[i]=nextGreater;
         }
      return result;
-        }
+    }
 }
